@@ -57,7 +57,6 @@ Alexa Is A Most Powerful And Advanced Music And Telegram Management Bot, I Am No
 
 ## 📊 &nbsp;My Groups
 
-## Join My Group 🇵🇰❤️
 <a href="https://t.me/Alexa_Help" target="blank"><img align="center" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
 ### Support & Updates ❤️❤️
 <a href="https://t.me/Alexa_Help"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/jankarikiduniya"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
