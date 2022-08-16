@@ -60,7 +60,7 @@ You can use the website to generate badges: https://shields.io/
 I created these images, feel free to use them.
 -->
   
-    ## 📊 &nbsp;Languages
+## 📊 &nbsp;Languages
   
 # Most Used Languages 🇵🇰❤️
 
