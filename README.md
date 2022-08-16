@@ -1,6 +1,8 @@
 
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Dr Asad Ali Programing Lover | [![Profile Views](https://gpvc.arturio.dev/TheTeamAlexa)](https://github.com/TheTeamAlexa)
 
+## 📊 &nbsp;Status
+
 <p align="center">
   <a href="https://t.me/Dr_Asad_Ali"><img src="https://user-images.githubusercontent.com/77770753/117139498-f081c400-adc9-11eb-9aaf-f895a54ecc67.gif"></a>
     </p>
