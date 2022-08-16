@@ -55,6 +55,12 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about disclaimer -->
 Alexa Is A Most Powerful And Advanced Music And Telegram Management Bot, I Am Not Professional At Coding I Used Modules Already Given In Github And Modify On My Demand. No Need To Copyright Any Of My Content And My All Sources Are Public And Open Source You Can Use Then And Them And Edit Them Thanks For Using Alexa. 
 
+## 📊 &nbsp;My Bots
+  
+<!-- Talking about disclaimer -->
+Here is list of my all bots
+  
+
 ## 📊 &nbsp;My Groups
 
 <a href="https://t.me/Alexa_Help" target="blank"><img align="center" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
