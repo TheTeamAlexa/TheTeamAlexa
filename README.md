@@ -65,11 +65,17 @@ Here is list of my all bots
 I created these images, feel free to use them.
 -->
 
+  ## 📊 &nbsp;Alexa Chat And Support
+<!-- Talking about groups -->
+
+<a href="https://t.me/Alexa_Help"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a>  <a href="https://t.me/Asad_Support"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>  
+  
+  
 ## 📊 &nbsp;My Groups
 <!-- Talking about groups -->
 
 ### Support & Updates ❤️❤️
-<a href="https://t.me/Alexa_Help"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/jankarikiduniya"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/ROCKS_OFFICIAL"><img src="https://img.shields.io/badge/Join-Channel%20ROCKSOFFICIAL-blue.svg?style=for-the-badge&logo=Telegram"></a><a href="https://t.me/Pubglovers_Shayri_lovers"><img src="https://img.shields.io/badge/Join-Channel%20Rocks-blue.svg?style=for-the-badge&logo=Telegram"></a><a href="https://t.me/Shayri_Music_Lovers"><img src="https://img.shields.io/badge/Join-Group%20Rocks-blue.svg?style=for-the-badge&logo=Telegram"></a><a href="https://t.me/Alexa_Help"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a><a href="https://t.me/jankarikiduniya"><img src="https://img.shields.io/badge/Join-Channel%20jankarikiduniya-blue.svg?style=for-the-badge&logo=Telegram"></a><a href="https://t.me/jankarikiduniyaofficial"><img src="https://img.shields.io/badge/Join-Group%20jankarikiduniya-blue.svg?style=for-the-badge&logo=Telegram"></a><a href="https://t.me/ROCKS_OFFICIAL_FED"><img src="https://img.shields.io/badge/Join-Group%20ROCKSOFFICIALFED-blue.svg?style=for-the-badge&logo=Telegram"></a><a href="https://t.me/AsadSupport"><img src="https://img.shields.io/badge/Join-Channel%20ROCKSBOTSUPPORT-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/Alexa_Help"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a>  <a href="https://t.me/jankarikiduniya"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>  <a href="https://t.me/ROCKS_OFFICIAL"><img src="https://img.shields.io/badge/Join-Channel%20ROCKSOFFICIAL-blue.svg?style=for-the-badge&logo=Telegram"></a>  <a href="https://t.me/Pubglovers_Shayri_lovers"><img src="https://img.shields.io/badge/Join-Channel%20Rocks-blue.svg?style=for-the-badge&logo=Telegram"></a>  <a href="https://t.me/Shayri_Music_Lovers"><img src="https://img.shields.io/badge/Join-Group%20Rocks-blue.svg?style=for-the-badge&logo=Telegram"></a>  <a href="https://t.me/Alexa_Help"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a>  <a href="https://t.me/jankarikiduniya"><img src="https://img.shields.io/badge/Join-Channel%20jankarikiduniya-blue.svg?style=for-the-badge&logo=Telegram"></a>  <a href="https://t.me/jankarikiduniyaofficial"><img src="https://img.shields.io/badge/Join-Group%20jankarikiduniya-blue.svg?style=for-the-badge&logo=Telegram"></a><a href="https://t.me/ROCKS_OFFICIAL_FED"><img src="https://img.shields.io/badge/Join-Group%20ROCKSOFFICIALFED-blue.svg?style=for-the-badge&logo=Telegram"></a>  <a href="https://t.me/AsadSupport"><img src="https://img.shields.io/badge/Join-Channel%20ROCKSBOTSUPPORT-blue.svg?style=for-the-badge&logo=Telegram"></a>
 <!-- Your support, if you have it 
 I created these images, feel free to use them.
 -->
