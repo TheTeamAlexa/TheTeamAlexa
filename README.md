@@ -26,7 +26,7 @@
 You can use the website to generate badges: https://shields.io/
 -->
 
-
+## 📊 &nbsp;Stats
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -39,16 +39,10 @@ You can use the website to generate badges: https://shields.io/
 
 <!-- Talking about you -->
 **Who I Am:**
-
-<!-- Any image aligned to the right. Beware the width -->
-
-
-<p align="center"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt" />
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />  
   
 - 🚶‍ &nbsp; I live in : Pakistan 🇵🇰  <br>
-- 👀 I’m interested in ... 👉 **Medical**
-- 🌱 I’m currently learning ... **C++, Python, Anesthesia**
+- 👀 I’m interested in ... 👉 Medical
+- 🌱 I’m currently learning ...Python, Anesthesia
 - 💞️ My Carrier ... [YouTube](https://youtube.com/jankarikiduniya)
 - 📫 How to reach me ...[Asad Ali](https://t.me/Dr_Asad_Ali): Dev
 - ⚡️ Fun-Fact: I'm Still Student;
@@ -73,13 +67,7 @@ I created these images, feel free to use them.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheTeamAlexa&repo=Encrypte-Decrypt-Shell-File&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/TheTeamAlexa/Encrypte-Decrypt-Shell-File) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheTeamAlexa&repo=Hacke-WiFi&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/TheTeamAlexa/Hacke-WiFi)
 
 &nbsp;
-
-## 📊 &nbsp;Stats
-
-![Team Alexa Github Stats](https://github-readme-stats.vercel.app/api?username=TheTeamAlexa&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheTeamAlexa&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
-
+``````
 ---
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
