@@ -26,7 +26,7 @@
 You can use the website to generate badges: https://shields.io/
 -->
   
-## 📊 &nbsp;Stats
+## 📊 &nbsp;Social Media
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
