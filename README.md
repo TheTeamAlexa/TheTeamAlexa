@@ -50,6 +50,11 @@ You can use the website to generate badges: https://shields.io/
 - 📫 How to reach me ...[Asad Ali](https://t.me/Dr_Asad_Ali): Dev
 - ⚡️ Fun-Fact: I'm Still Student;
 
+## 📊 &nbsp;Disclaimer
+  
+<!-- Talking about disclaimer -->
+Alexa Is A Most Powerful And Advanced Music And Telegram Management Bot, I Am Not Professional At Coding I Used Modules Already Given In Github And Modify On My Demand. No Need To Copyright Any Of My Content And My All Sources Are Public And Open Source You Can Use Then And Them And Edit Them Thanks For Using Alexa. 
+
 ## 📊 &nbsp;My Groups
 
 ## Join My Group 🇵🇰❤️
