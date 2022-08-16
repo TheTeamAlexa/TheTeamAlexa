@@ -59,7 +59,10 @@ Alexa Is A Most Powerful And Advanced Music And Telegram Management Bot, I Am No
   
 <!-- Talking about disclaimer -->
 Here is list of my all bots
-  
+<a href="https://t.me/Alexa_ManagementBot"><img src="https://img.shields.io/badge/Try-Alexa%20Management-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/Aastha_Musicbot"><img src="https://img.shields.io/badge/Try-Aastha%20Music-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/Asad_Music_Bot"><img src="https://img.shields.io/badge/Try-Alexa%20Music-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/Session_Generator_Robot"><img src="https://img.shields.io/badge/Try-Session%20Bot-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/Alexa_MentionBot"><img src="https://img.shields.io/badge/Try-Mention%20Bot-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<!-- Your support, if you have it 
+I created these images, feel free to use them.
+-->
 
 ## 📊 &nbsp;My Groups
 <!-- Talking about groups -->
