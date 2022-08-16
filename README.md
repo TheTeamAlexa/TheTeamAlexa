@@ -38,7 +38,8 @@ You can use the website to generate badges: https://shields.io/
 |       **[Asad Ali Owner Of Jankari Ki Duniya](https://t.me/Dr_Asad_Ali)**                                                                                |
 | <a href="https://t.me/Dr_Asad_Ali"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png" width="100px" height="100px"></a> <a href="https://www.instagram.com/asad_ali8"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png" width="100px" height="100px"></a>                                                                                                                                                                <a href="https://www.youtube.com/channel/jankarikiduniya"><img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" width="100px" height="100px"></a>              <a href="https://facebook.com/asadali.bsat"><img src="https://telegra.ph/file/3274549109051466720ec.png" width="100px" height="100px">                                                                   
 
-
+## 📊 &nbsp;About Me
+  
 <!-- Talking about you -->
 **Who I Am:**
   
@@ -49,7 +50,7 @@ You can use the website to generate badges: https://shields.io/
 - 📫 How to reach me ...[Asad Ali](https://t.me/Dr_Asad_Ali): Dev
 - ⚡️ Fun-Fact: I'm Still Student;
 
-
+## 📊 &nbsp;My Groups
 
 ## Join My Group 🇵🇰❤️
 <a href="https://t.me/Alexa_Help" target="blank"><img align="center" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
@@ -58,7 +59,9 @@ You can use the website to generate badges: https://shields.io/
 <!-- Your support, if you have it 
 I created these images, feel free to use them.
 -->
-# Most Used Languages 🇵🇰❤️
+  
+    ## 📊 &nbsp;Languages
+  
 # Most Used Languages 🇵🇰❤️
 
 ![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=dihanofficial)
