@@ -58,10 +58,6 @@ I created these images, feel free to use them.
 -->
 # Most Used Languages 🇵🇰❤️
 
-![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=dihanofficial)
-
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
 ## 🖥 &nbsp;Past work
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheTeamAlexa&repo=Encrypte-Decrypt-Shell-File&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/TheTeamAlexa/Encrypte-Decrypt-Shell-File) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheTeamAlexa&repo=Hacke-WiFi&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/TheTeamAlexa/Hacke-WiFi)
