@@ -71,8 +71,6 @@ I created these images, feel free to use them.
 -->
   
 ## 📊 &nbsp;Languages
-  
-# Most Used Languages 🇵🇰❤️
 
 ![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=dihanofficial)
   
@@ -83,7 +81,7 @@ I created these images, feel free to use them.
 &nbsp;
 ``````
 ---
-📊 **Weekly development breakdown**
+📊 Weekly development breakdown
 Python      4 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   35.89 
 HTML/CSS    2 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   22.32 
 Javascript  1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.17 
