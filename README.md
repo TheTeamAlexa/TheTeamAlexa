@@ -1,4 +1,3 @@
-<p align="center"><a href=""> <img src="https://img.shields.io/badge/Copy%20Paster%20Ki%20Gand%20Main%20Land-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Dr Asad Ali Programing Lover | [![Profile Views](https://gpvc.arturio.dev/TheTeamAlexa)](https://github.com/TheTeamAlexa)
 
@@ -71,7 +70,7 @@ I created these images, feel free to use them.
 
 ## 🖥 &nbsp;Past work
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheTeamAlexa&repo=Pwnagetty&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/TheTeamAlexa/Pwnagetty) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheTeamAlexa&repo=love-lock-card&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/TheTeamAlexa/love-lock-card)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheTeamAlexa&repo=Encrypte-Decrypt-Shell-File&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/TheTeamAlexa/Encrypte-Decrypt-Shell-File) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheTeamAlexa&repo=Hacke-WiFi&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/TheTeamAlexa/Hacke-WiFi)
 
 &nbsp;
 
