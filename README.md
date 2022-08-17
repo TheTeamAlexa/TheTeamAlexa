@@ -91,7 +91,7 @@ I created these images, feel free to use them.
 &nbsp;
 ``````
 ---
-📊 Weekly development breakdown
+📊 Weekly Development Breakdown
 Python      4 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   35.89 
 HTML/CSS    2 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   22.32 
 Javascript  1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.17 
