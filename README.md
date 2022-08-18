@@ -86,7 +86,7 @@ I created these images, feel free to use them.
   
 ## 🖥 &nbsp;Past work
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheTeamAlexa&repo=Encrypte-Decrypt-Shell-File&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/TheTeamAlexa/Encrypte-Decrypt-Shell-File) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheTeamAlexa&repo=Hacke-WiFi&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/TheTeamAlexa/Hacke-WiFi)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheTeamAlexa&repo=AlexaMusic&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/TheTeamAlexa/AlexaMusic) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheTeamAlexa&repo=AlexaRobot-1.0&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/TheTeamAlexa/AlexaRobot-1.0)
 
 &nbsp;
 ``````
